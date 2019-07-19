@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ООП_4ПИЭ_81_ЛР_N2_Вопиловский
+namespace ООП_4ПИЭ_81_ЛР_N2_Вопиловский 
 {
     public partial class Form1 : Form
     {
